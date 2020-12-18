@@ -1,3 +1,5 @@
+Notice: This is a fork from collinmay/libblepp and modified to not require boost and will build on a Raspberry Pi
+
 libble++
 ---------
 
